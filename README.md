@@ -16,6 +16,7 @@ to play with. The funkit will display "Paper Scissors Rock best of 5",
 indicating you are ready to start.
 
 Instructions on how to play:
+    
     1) To start a game, both players must press the navswitch button.
     
     2) Use the UP and DOWN toggles on the navswitch joystick to cycle through R,
